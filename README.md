@@ -1,8 +1,8 @@
-                **AI Capstone Project**
+                ****AI Capstone Project****
 **Retail – Demand and sales Forecasting** 
 
 DESCRIPTION
-Problem Statement
+**Problem Statement**
       •	Demand Forecast is one of the key tasks in Supply Chain and Retail Domain in general. It is key in effective operation and optimization of retail supply      chain. Effectively solving this problem requires knowledge about a wide range of tricks in Data Sciences and good understanding of ensemble techniques. 
       •	You are required to predict sales for each Store-Day level for one month. All the features will be provided and actual sales that happened during that month will also be provided for model evaluation. 
 
@@ -11,6 +11,7 @@ Training Data Description: Historic sales at Store-Day level for about two years
  
  
 Project Task: Week 1
+
     Exploratory Data Analysis (EDA) and Linear Regression:
 1.	Transform the variables by using data manipulation techniques like, One-Hot Encoding 
 2.	Perform an EDA (Exploratory Data Analysis) to see the impact of variables over Sales.
@@ -32,6 +33,7 @@ Note: Dimensional Reduction techniques like, PCA and Tree’s Hyperparameter Tun
 •	Identify yearly trends and seasonal months
  
 Project Task: Week 2
+
     Implementing Neural Networks:
 1.	Train a LSTM on the same set of features and compare the result with traditional time-series model.
 2.	Comment on the behavior of all the models you have built so far
